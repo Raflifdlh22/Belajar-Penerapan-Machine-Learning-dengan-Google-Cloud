@@ -10,7 +10,7 @@
     "upload": "node ./src/services/storeData.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "Rafli Fadilah",
   "license": "ISC",
   "dependencies": {
     "@google-cloud/firestore": "^7.10.0",
